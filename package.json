@@ -1,0 +1,18 @@
+{
+  "name": "millwright-cli",
+  "description": "cli for Millwright.js",
+  "version": "0.1.7",
+  "homepage": "https://millwrightjs.com",
+  "repository": "millwrightjs/millwright-cli",
+  "author": "Shawn Erquhart (https://github.com/erquhart)",
+  "files": [
+    "bin"
+  ],
+  "bin": {
+    "mill": "./bin/mill.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^5.0.0"
+  }
+}
