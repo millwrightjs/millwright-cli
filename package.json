@@ -1,7 +1,7 @@
 {
   "name": "millwright-cli",
   "description": "cli for Millwright.js",
-  "version": "0.1.8",
+  "version": "0.3.0",
   "homepage": "https://millwrightjs.com",
   "repository": "millwrightjs/millwright-cli",
   "author": "Shawn Erquhart (https://github.com/erquhart)",
